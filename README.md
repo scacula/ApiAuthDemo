@@ -31,3 +31,7 @@ There is another Console app `BasicAuthApiConsumer`, which is a demo to consume 
 Feel free to use the code in this repository as it is under MIT license.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I3I63W4OK)
+
+
+Call URL:
+https://user:password@localhost:44352/api/Values/basic
